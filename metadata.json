@@ -1,0 +1,7 @@
+{
+  "name": "EagleEye - Tactical Op Planner",
+  "description": "A high-security tactical operation planning system for law enforcement, featuring target management, team allocation, and route visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
